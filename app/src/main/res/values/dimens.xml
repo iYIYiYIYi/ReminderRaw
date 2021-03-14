@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="edit_button_inset">8dp</dimen>
+    <dimen name="plan_card_shadow">1dp</dimen>
+    <dimen name="edit_button_shadow_Elevation">4dp</dimen>
+</resources>

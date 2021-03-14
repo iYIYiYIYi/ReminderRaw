@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <!-- Customize your theme here. -->
+
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="tab_menu_item" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="neumorph_shapeType">@drawable/radiobutton_background</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/radiobutton_background</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:width">100dp</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:textColor">@drawable/text_selector</item>
+    </style>
+
+</resources>

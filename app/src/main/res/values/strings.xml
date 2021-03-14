@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="plan">待办</string>
+    <string name="classes">课程</string>
+    <string name="study">番茄钟</string>
+    <string name="mine">我的</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="plan_fragment_head">TODO</string>
+</resources>
